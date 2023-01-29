@@ -1,86 +1,86 @@
 [
     {
-    "word": "Kopf",
+    "word": "Kopf - голова",
     "gender": "der"
     },
     {
-    "word": "Brust",
+    "word": "Brust - груть",
     "gender": "die"
     },
     {
-    "word": "Arm",
+    "word": "Arm - рука",
     "gender": "der"
     },
     {
-    "word": "Hals",
+    "word": "Hals - шея",
     "gender": "der"
     },
     {
-    "word": "Brauch",
+    "word": "Brauch - живот",
     "gender": "der"
     },
     {
-    "word": "Hand",
+    "word": "Hand - кисть руки",
     "gender": "die"
     },
     {
-    "word": "Nase",
+    "word": "Nase - нос",
     "gender": "die"
     },
     {
-    "word": "Finger",
+    "word": "Finger - пальец",
     "gender": "der"
     },
     {
-    "word": "Ohr",
+    "word": "Ohr - ухо",
     "gender": "das"
     },
     {
-    "word": "Bein",
+    "word": "Bein - нога",
     "gender": "das"
     },
     {
-    "word": "Auge",
+    "word": "Auge - глаз",
     "gender": "das"
     },
     {
-    "word": "Schulter",
+    "word": "Schulter - плечо",
     "gender": "das"
     },
     {
-    "word": "Eis",
+    "word": "Eis - мороженое",
     "gender": "das"
     },
     {
-    "word": "Torte",
+    "word": "Torte - торт",
     "gender": "die"
     },
     {
-    "word": "Kuchen",
+    "word": "Kuchen - выпечка",
     "gender": "der"
     },
     {
-    "word": "Schokolade",
+    "word": "Schokolade - шоколад",
     "gender": "die"
     },
     {
-    "word": "Käse",
+    "word": "Käse - сыр",
     "gender": "der"
     },
     {
-    "word": "Butter",
+    "word": "Butter - масло",
     "gender": "die"
     },
     {
-    "word": "Brötchen",
+    "word": "Brötchen - хлеб",
     "gender": "das"
     },
     {
-    "word": "Wurst",
+    "word": "Wurst - колбаса",
     "gender": "die"
     },
     {
-    "word": "Marmeelade",
+    "word": "Marmeelade - варенье",
     "gender": "die"
     },
     {
@@ -88,12 +88,71 @@
     "gender": "die"
     },
     {
-    "word": "Bein",
+    "word": "Bier - пиво",
     "gender": "das"
     },
     {
-    "word": "Limo",
+    "word": "Limo - лимонад",
     "gender": "die"
+    },
+    {
+    "word": "Taube - чайка",
+    "gender": "die"
+    },
+    {
+    "word": "Schnecke - улитка",
+    "gender": "die"
+    },
+    {
+    "word": "Python  Schlange - змея питон",
+    "gender": "die"
+    },
+    {
+    "word": "Blauwal - кит",
+    "gender": "der"
+    },
+    {
+    "word": "Falke - сокол",
+    "gender": "der"
+    },
+    {
+    "word": "Elefant - слон",
+    "gender": "der"
+    },
+    {
+    "word": "Schildköte - черепаха",
+    "gender": "die"
+    },
+    {
+    "word": "Puma - пума",
+    "gender": "der"
+    },
+    {
+    "word": "Nipferd - бегемот",
+    "gender": "das"
+    },
+    {
+    "word": "Walhai - акула",
+    "gender": "der"
+    },
+    {
+    "word": "Fautier - ленивец",
+    "gender": "das"
+    },
+    {
+    "word": "Löwe - лев",
+    "gender": "der"
+    },
+    {
+    "word": "Tiger - тигр",
+    "gender": "der"
+    },
+    {
+    "word": "Nashorm - носорог",
+    "gender": "das"
+    },
+    {
+    "word": "Adler - орел",
+    "gender": "der"
     }
-
 ]

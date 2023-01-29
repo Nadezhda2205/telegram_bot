@@ -28,7 +28,7 @@ async def button_click_call_back(callback_query: types.CallbackQuery, state: FSM
             data['answer'] = res.get('gender')
             data['word'] = res.get('word')
             if data['step'] > 10:
-                await bot.send_message(callback_query.from_user.id, "Игра закончена\n/train_ten")
+                await bot.send_message(callback_query.from_user.id, "Игра закончена\nПопробовать снова /train_ten")
                 await GameStates.start.set()
             else:
                 await bot.send_message(callback_query.from_user.id, 'Да вы угадали\n' + f'{data["step"]} из 10\nСледующее слово "{data["word"]}"', reply_markup=inline_kb)
